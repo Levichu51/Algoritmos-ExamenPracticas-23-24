@@ -1,2 +1,2 @@
 # Algoritmos-Practica1-23-24
-Primera práctica de la asignatura Algoritmos 23/24
+Examen de prácticas de la asignatura Algoritmos UDC 23/24
